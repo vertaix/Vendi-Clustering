@@ -8,6 +8,8 @@ agglomerative merging on topic similarity. Vendi Clustering instead picks, at ea
 step, the merge that best preserves the Vendi Score of order *q* over the remaining
 topics.
 
+<img width="800" height="373" alt="gif" src="https://github.com/user-attachments/assets/881c24b5-bba3-4dd1-a559-5b2d8d29e10f" />
+
 The core depends only on numpy, scipy and scikit-learn. BERTopic is optional and is
 reached solely through its public API.
 
