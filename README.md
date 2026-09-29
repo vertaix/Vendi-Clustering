@@ -133,7 +133,10 @@ re-enabled.
 ## Citation
 
 ```bibtex
-TODO
+@article{kimvendi,
+  title={Vendi Clustering for Diversity-Preserving Topic Reduction},
+  author={Kim, Sean and Dieng, Adji Bousso}
+}
 ```
 
 ## License
